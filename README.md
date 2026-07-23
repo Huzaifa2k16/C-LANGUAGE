@@ -28,11 +28,10 @@ It covers fundamental to intermediate C programming concepts with well-structure
 
 ## 💻 Mini Projects
 
-- 🎲 Yahtzee Dice Game
+- 🎲 Dice Game
 - 🏨 Hotel Management System
-- 🎓 Student Management System
-- 📂 File Handling Projects
-- 🧮 Matrix Calculator
+- 🔢 Matrix Operations
+- 🧮 Calculator
 
 ---
 
